@@ -28,6 +28,8 @@
 
 <h3 align="center"> Minhas Linguagens é estudos</h3>
 
-  <p align="center">![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)</p>
-  ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
-  ![Css](https://img.shields.io/badge/-Css-black?style=flat&logo=css)
+  <p align="center">
+  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
+</p>
