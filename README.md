@@ -36,7 +36,7 @@
 
 <br><br>
 <p width="100%" align="center">
-<img img align="Right" height="115" alt="GIF" src="https://media.discordapp.net/attachments/756218391798349825/756218435511255240/image1.png?width=499&height=499" />
+<img img align="Right" height="115" alt="GIF" src="https://external-preview.redd.it/W4XFZfnnb9B0-yHmurDub2QU4OVgAYI2VvmEUbvzUEk.jpg?auto=webp&s=a506e43a65e812eb6fbb6cdb442111d5fd5f81fb" />
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="200%" height="200" src="https://github-readme-stats.vercel.app/api?username=Aloneeezin&show_icons=true&theme=graywhite"></a>
-<img img align="Left" height="115" alt="GIF" src="https://media.discordapp.net/attachments/756218391798349825/756218435511255240/image1.png?width=499&height=499" />
+<img img align="Left" height="115" alt="GIF" src="https://external-preview.redd.it/W4XFZfnnb9B0-yHmurDub2QU4OVgAYI2VvmEUbvzUEk.jpg?auto=webp&s=a506e43a65e812eb6fbb6cdb442111d5fd5f81fb" />
 </
