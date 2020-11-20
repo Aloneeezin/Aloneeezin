@@ -11,4 +11,9 @@
 <p align="right">
   Olá, eu sou alonee é sou bem gay:)
 </p>
+<br><br>
+<p width="100%" align="center">
 <img align="right" alt="GIF" src="https://data.whicdn.com/images/325045593/original.png?t=1547072206" width="500" />
+<img align="left" alt="GIF" src="https://data.whicdn.com/images/325045593/original.png?t=1547072206" width="500" />
+</p>
+<br><br>
