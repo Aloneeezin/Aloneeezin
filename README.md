@@ -36,6 +36,7 @@
 
 <br><br>
 <p width="100%" align="center">
-<img img align="Right" height="115" alt="GIF" src="https://i.pinimg.com/236x/b0/f8/68/b0f868309bae68a8e0774a3b43376deb--header-twitter-avi.jpg" />
-<img img align="Left" height="115" alt="GIF" src="https://i.pinimg.com/236x/b0/f8/68/b0f868309bae68a8e0774a3b43376deb--header-twitter-avi.jpg" />
-</p>
+<img img align="Right" height="115" alt="GIF" src="https://pbs.twimg.com/profile_images/459326425347018752/W3MbLuOj_400x400.jpeg" />
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="100" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
+<img img align="Left" height="115" alt="GIF" src="https://pbs.twimg.com/profile_images/459326425347018752/W3MbLuOj_400x400.jpeg" />
+</
