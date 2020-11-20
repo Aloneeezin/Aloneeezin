@@ -17,9 +17,9 @@
 <br><br>
 <h2 align="center">Meu Pc</h3> 
 
-                                 Processador Intel Core i5-3330 3.0ghz
-                                 Placa de Video: NVIDIA GTX 550ti 1GB AMP! Edition
-                                 Placa Mãe: AFOX IH61-MA5 Socket: LGA1155
-                                 GB(2x8) RAM Hyperx 1600mhz
-                                 Monitor LED 29" IPS ultrawide 1ms 75Hz
-                                 Pro Gamer 29UM69G Lg CX 1 UN
+                                                                  Processador Intel Core i5-3330 3.0ghz
+                                                                  Placa de Video: NVIDIA GTX 550ti 1GB AMP! Edition
+                                                                  Placa Mãe: AFOX IH61-MA5 Socket: LGA1155
+                                                                  GB(2x8) RAM Hyperx 1600mhz
+                                                                  Monitor LED 29" IPS ultrawide 1ms 75Hz
+                                                                  Pro Gamer 29UM69G Lg CX 1 UN
