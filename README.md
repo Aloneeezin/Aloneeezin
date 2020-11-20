@@ -12,3 +12,4 @@
 <p align="center">
   Olá, eu sou alonee é sou bem gay:)
 </p>
+<img align="center" alt="GIF" src="https://64.media.tumblr.com/39e15ba847264adf7247c18ea1d1dd54/tumblr_oaznbin64c1uaev5eo2_1280.png" />
