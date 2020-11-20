@@ -9,7 +9,7 @@
 </h5>
 <br>
 <p align="center">
-  Me chamo Samuel (Aloneee) tenho 16 anos, meu primeiro contato com computadores foi aos 8 anos de idade.  Consequentemente veio a vontade de me aprofundar em outras áreas, por intermédio de um filme chamado "Piratas da Internet" que é sobre hacking e com isso, eu comecei a estudar pentest e programação. Tenho 5 anos de experiência com programação e 4 anos de experiência com pentest, o intuito da criação desse Github é ajudar outras pessoas que estudam essas áreas e postar alguns projetos feitos por mim.
+Me chamo Samuel (Aloneee) tenho 16 anos, meu primeiro contato com computadores foi aos 8 anos de idade.  Consequentemente veio a vontade de me aprofundar em outras áreas, por intermédio de um filme chamado "Piratas da Internet" que é sobre hacking e com isso, eu comecei a estudar pentest e programação. Tenho 5 anos de experiência com programação e 4 anos de experiência com pentest, o intuito da criação desse Github é ajudar outras pessoas que estudam essas áreas e postar alguns projetos feitos por mim.
 </p>
 <br><br>
 <p width="100%" align="center">
