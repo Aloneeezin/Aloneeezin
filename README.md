@@ -9,7 +9,7 @@
 <a href="https://instagram.com/commandrose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="commandrose" height="40" width="40" /></a>
 </h5>
 <br>
-<p align="center">
+<p align="right">
   Olá, eu sou alonee é sou bem gay:)
 </p>
-<img align="center" alt="GIF" src="https://64.media.tumblr.com/39e15ba847264adf7247c18ea1d1dd54/tumblr_oaznbin64c1uaev5eo2_1280.png" />
+<img align="right" alt="GIF" src="https://data.whicdn.com/images/325045593/original.png?t=1547072206" width="500" />
