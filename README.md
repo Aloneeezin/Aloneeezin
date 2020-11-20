@@ -13,9 +13,6 @@
 </p>
 <br><br>
 <p width="100%" align="center">
-<p align="right" height"115">
-Teste
-  </p>
 <img img align="center" height="115" alt="GIF" src="https://pbs.twimg.com/profile_images/1097511525479256064/iXRGVusX_400x400.png" />
 </p>
 <br><br>
