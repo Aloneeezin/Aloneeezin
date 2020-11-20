@@ -12,7 +12,7 @@
 </p>
 <br><br>
 <p width="100%" align="center">
-<img img align="center" height="150" alt="GIF" src="https://pbs.twimg.com/profile_images/1097511525479256064/iXRGVusX_400x400.png" />
+<img img align="center" height="115" alt="GIF" src="https://pbs.twimg.com/profile_images/1097511525479256064/iXRGVusX_400x400.png" />
 </p>
 <br><br>
 
