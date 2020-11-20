@@ -38,5 +38,5 @@
 <p width="100%" align="center">
 <img img align="Right" height="115" alt="GIF" src="https://i.pinimg.com/originals/4e/4e/a6/4e4ea630af53ad893fb81f510f52ceb0.jpg" />
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="200%" height="200" src="https://github-readme-stats.vercel.app/api?username=Aloneeezin&show_icons=true&theme=graywhite"></a>
-<img img align="Left" height="200" alt="GIF" src="https://pbs.twimg.com/media/C9r8ALwVoAAnYUj.jpg" />
+<img img align="Left" height="150" alt="GIF" src="https://pbs.twimg.com/media/C9r8ALwVoAAnYUj.jpg" />
 </
