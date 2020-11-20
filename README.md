@@ -16,15 +16,15 @@
 </p>
 <br><br>
 <h2 align="center">Meu Pc</h3>
-<p align="center">Processador Intel Core i5-3330 3.0ghz
+<p align="center">Processador Intel Core i5-3330 3.0ghz</a>
   <br>
-Placa de Video: NVIDIA GTX 550ti 1GB AMP! Edition
+Placa de Video: NVIDIA GTX 550ti 1GB AMP! Edition</a>
   <br>
-Placa Mãe: AFOX IH61-MA5 Socket: LGA1155
+Placa Mãe: AFOX IH61-MA5 Socket: LGA1155</a>
   <br>
-GB(2x8) RAM Hyperx 1600mhz
+GB(2x8) RAM Hyperx 1600mhz</a>
   <br>
-Monitor LED 29" IPS ultrawide 1ms 75Hz
+Monitor LED 29" IPS ultrawide 1ms 75Hz</a>
   <br>
-Pro Gamer 29UM69G Lg CX 1 UN
+Pro Gamer 29UM69G Lg CX 1 UN</a>
 </p>
