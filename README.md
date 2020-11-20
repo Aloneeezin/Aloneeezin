@@ -26,8 +26,8 @@
                                                               Monitor LED 29" IPS ultrawide 1ms 75Hz
                                                                    Pro Gamer 29UM69G Lg CX 1 UN
 
-<h3 align"center"> Minhas Linguagens é estudos</h3>
+<h3 align="center"> Minhas Linguagens é estudos</h3>
 
-  [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-  [![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
-  [![Css](https://img.shields.io/badge/-Css-black?style=flat&logo=css)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
+  ![Css](https://img.shields.io/badge/-Css-black?style=flat&logo=css)
