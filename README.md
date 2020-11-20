@@ -28,6 +28,6 @@
 
 <h3 align="center"> Minhas Linguagens é estudos</h3>
 
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+  <p align="center">![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)</p>
   ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
   ![Css](https://img.shields.io/badge/-Css-black?style=flat&logo=css)
