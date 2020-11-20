@@ -13,7 +13,6 @@
 </p>
 <br><br>
 <p width="100%" align="center">
-<img img align="left" height="115" alt="GIF" src="https://i.pinimg.com/originals/22/ec/bb/22ecbb2fe39d8b3427a991aa1d333f8f.png" />
-<img img align="right" height="115" alt="GIF" src="https://data.whicdn.com/images/325045593/original.png?t=1547072206" />
+<img img align="center" height="115" alt="GIF" src="https://pbs.twimg.com/profile_images/1097511525479256064/iXRGVusX_400x400.png" />
 </p>
 <br><br>
