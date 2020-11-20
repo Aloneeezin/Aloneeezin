@@ -16,5 +16,10 @@
 </p>
 <br><br>
 <h2 align="center">Meu Pc</h3>
-<p align="center">Me chamo Samuel (Aloneee) tenho 16 anos, meu primeiro contato com computadores foi aos 8 anos de idade.  Consequentemente veio a vontade de me aprofundar em outras áreas, por intermédio de um filme chamado "Piratas da Internet" que é sobre hacking e com isso, eu comecei a estudar pentest e programação. Tenho 5 anos de experiência com programação e 4 anos de experiência com pentest, o intuito da criação desse Github é ajudar outras pessoas que estudam essas áreas e postar alguns projetos feitos por mim.
+<p align="center">Processador Intel Core i5-3330 3.0ghz
+Placa de Video: NVIDIA GTX 550ti 1GB AMP! Edition
+Placa Mãe: AFOX IH61-MA5 Socket: LGA1155
+GB(2x8) RAM Hyperx 1600mhz
+Monitor LED 29" IPS ultrawide 1ms 75Hz
+Pro Gamer 29UM69G Lg CX 1 UN
 </p>
