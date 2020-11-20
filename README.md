@@ -33,3 +33,9 @@
   <code><img title="Javascript" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
   <code><img title="Python" height="25" src="https://lh3.googleusercontent.com/proxy/rN33h9liw6UOhgj2PTGIuvbbGIs1ekt4naBsYctPv6EX3rn1F2neTsydhfK97BKlK3Bei-VzooBIeQfmvqAItl6CzuAKtpAa64s"></code>
 </p>
+
+<br><br>
+<p width="100%" align="center">
+<img img align="Right" height="115" alt="GIF" src="https://i.pinimg.com/236x/b0/f8/68/b0f868309bae68a8e0774a3b43376deb--header-twitter-avi.jpg" />
+<img img align="Left" height="115" alt="GIF" src="https://i.pinimg.com/236x/b0/f8/68/b0f868309bae68a8e0774a3b43376deb--header-twitter-avi.jpg" />
+</p>
