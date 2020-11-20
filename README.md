@@ -8,12 +8,12 @@
 <a href="https://instagram.com/Aloneezin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="commandrose" height="40" width="40" /></a>
 </h5>
 <br>
-<p align="right">
-  Olá, eu sou alonee é sou bem gay:)
+<p align="center">
+  Me chamo Samuel (Aloneee) tenho 16 anos, meu primeiro contato com computadores foi aos 8 anos de idade.  Consequentemente veio a vontade de me aprofundar em outras áreas, por intermédio de um filme chamado "Piratas da Internet" que é sobre hacking e com isso, eu comecei a estudar pentest e programação. Tenho 5 anos de experiência com programação e 4 anos de experiência com pentest, o intuito da criação desse Github é ajudar outras pessoas que estudam essas áreas e postar alguns projetos feitos por mim.
 </p>
 <br><br>
 <p width="100%" align="center">
-<img align="right" alt="GIF" src="https://data.whicdn.com/images/325045593/original.png?t=1547072206" width="500" />
-<img align="left" alt="GIF" src="https://data.whicdn.com/images/325045593/original.png?t=1547072206" width="500" />
+<img img align="left" height="115" alt="GIF" src="https://i.pinimg.com/474x/dd/93/61/dd9361a16d450414c27535447e0de5c5.jpg" />
+<img img align="right" height="115" alt="GIF" src="https://data.whicdn.com/images/325045593/original.png?t=1547072206" />
 </p>
 <br><br>
