@@ -15,16 +15,11 @@
 <img img align="center" height="115" alt="GIF" src="https://pbs.twimg.com/profile_images/1097511525479256064/iXRGVusX_400x400.png" />
 </p>
 <br><br>
-<h2 align="center">Meu Pc</h3>
-<p align="center">Processador Intel Core i5-3330 3.0ghz</a>
-  <br>
-Placa de Video: NVIDIA GTX 550ti 1GB AMP! Edition</a>
-  <br>
-Placa Mãe: AFOX IH61-MA5 Socket: LGA1155</a>
-  <br>
-GB(2x8) RAM Hyperx 1600mhz</a>
-  <br>
-Monitor LED 29" IPS ultrawide 1ms 75Hz</a>
-  <br>
-Pro Gamer 29UM69G Lg CX 1 UN</a>
-</p>
+<h2 align="center">Meu Pc</h3> 
+
+    Processador Intel Core i5-3330 3.0ghz
+    Placa de Video: NVIDIA GTX 550ti 1GB AMP! Edition
+    Placa Mãe: AFOX IH61-MA5 Socket: LGA1155
+    GB(2x8) RAM Hyperx 1600mhz
+    Monitor LED 29" IPS ultrawide 1ms 75Hz
+    Pro Gamer 29UM69G Lg CX 1 UN
