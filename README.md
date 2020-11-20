@@ -29,7 +29,7 @@
 <h3 align="center"> Minhas Linguagens é estudos</h3>
 
   <p align="center">
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
+  <code><img title="CSS" height="25" src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png"></code>
+  <code><img title="Javascript" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
+  <code><img title="Python" height="25" src="https://img.icons8.com/ios/452/python.png"></code>
 </p>
