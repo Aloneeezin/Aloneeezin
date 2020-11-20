@@ -17,9 +17,14 @@
 <br><br>
 <h2 align="center">Meu Pc</h3>
 <p align="center">Processador Intel Core i5-3330 3.0ghz
+  <br>
 Placa de Video: NVIDIA GTX 550ti 1GB AMP! Edition
+  <br>
 Placa Mãe: AFOX IH61-MA5 Socket: LGA1155
+  <br>
 GB(2x8) RAM Hyperx 1600mhz
+  <br>
 Monitor LED 29" IPS ultrawide 1ms 75Hz
+  <br>
 Pro Gamer 29UM69G Lg CX 1 UN
 </p>
