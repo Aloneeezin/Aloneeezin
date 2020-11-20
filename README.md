@@ -15,7 +15,9 @@
 <img img align="center" height="115" alt="GIF" src="https://pbs.twimg.com/profile_images/1097511525479256064/iXRGVusX_400x400.png" />
 </p>
 <br><br>
+
 # Meu Computador
+
 
                                                             Processador Intel Core i5-3330 3.0ghz
                                                             Placa de Video: NVIDIA GTX 550ti 1GB AMP! Edition
