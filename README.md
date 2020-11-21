@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Welcome To My Portfolio</h3>
+<h3 align="center">Welcome to my profile</h3>
 <h5 align="center">
   <code>
 <a href="https://twitter.com/Aloneezin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Aloneeezin" height="25" width="25" /></a>
