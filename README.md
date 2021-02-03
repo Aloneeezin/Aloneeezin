@@ -29,7 +29,7 @@
 <h3 align="center"> Minhas Linguagens</h3>
 
   <p align="center">
-  <code><img title="CSS" height="25" src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png"></code>
+  <code><img title="Ruby" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496659055968276/ruby.png"></code>
   <code><img title="Javascript" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806495595635802222/javascript.png"></code>
   <code><img title="Python" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806495262800871424/py_logo.png"></code>
 </p>
