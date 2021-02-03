@@ -28,28 +28,15 @@
 
 <h3 align="center"> Minhas Linguagens</h3>
 
-  <p align="center">
-  <td>
   <center>
-  <td>
-<img title="Ruby" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496659055968276/ruby.png">
-  </td>
+<img img align="center"img alt="Ruby" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496659055968276/ruby.png">
 </center>
-  <p align="center">Ruby</p>
- 
-
   <center>
-   <td>
 <align="center" img title="Javascript" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806495796216070144/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f746875.png">
-  </td>
 </center>
-  <p align="center">JavaScript</p>
   <center>
-<td>
 <img title="Python" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496026609451078/python.png">
-  </td>
 </center>
-  <p align="center">Python</p>
 </p>
 
 <br><br>
