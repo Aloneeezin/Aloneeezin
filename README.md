@@ -20,7 +20,7 @@
 
 
                                                          Processador Intel Core i5-3330 3.0ghz
-                                                   Placa de Video: NVIDIA GTX 550ti 1GB AMP! Edition
+                                                   Placa de Video: NVIDIA GTX 1660 super 6GB Asus TUF3
                                                        Placa Mãe: AFOX IH61-MA5 Socket: LGA1155
                                                               GB(2x8) RAM Hyperx 1600mhz
                                                         Monitor LED 29" IPS ultrawide 1ms 75Hz
