@@ -26,12 +26,15 @@
                                                         Monitor LED 29" IPS ultrawide 1ms 75Hz
                                                              Pro Gamer 29UM69G Lg CX 1 UN
 
-<h3 align="center">Minhas Linguagens</h3>
+<h3 align="center"> Minhas Linguagens</h3>
 
   <p align="center">
-  <code><img title="Ruby" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496659055968276/ruby.png"></code>
-  <code><img title="Javascript" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806495595635802222/javascript.png"></code>
-  <code><img title="Python" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806495262800871424/py_logo.png"></code>
+  <code><img title="Ruby" height="25" src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png"></code>
+  <p>Ruby</p>
+  <code><img title="Javascript" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806495796216070144/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f746875.png"></code>
+  <p>JavaScript</p>
+  <code><img title="Python" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496026609451078/python.png"></code>
+  <p>Python</p>
 </p>
 
 <br><br>
