@@ -26,7 +26,7 @@
                                                         Monitor LED 29" IPS ultrawide 1ms 75Hz
                                                              Pro Gamer 29UM69G Lg CX 1 UN
 
-<h3 align="center"> Minhas Linguagens</h3>
+<h3 align="center">Minhas Linguagens</h3>
 
   <p align="center">
   <code><img title="Ruby" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496659055968276/ruby.png"></code>
