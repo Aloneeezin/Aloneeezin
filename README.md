@@ -30,8 +30,8 @@
 
   <p align="center">
   <code><img title="CSS" height="25" src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png"></code>
-  <code><img title="Javascript" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"></code>
-  <code><img title="Python" height="25" src="https://lh3.googleusercontent.com/proxy/rN33h9liw6UOhgj2PTGIuvbbGIs1ekt4naBsYctPv6EX3rn1F2neTsydhfK97BKlK3Bei-VzooBIeQfmvqAItl6CzuAKtpAa64s"></code>
+  <code><img title="Javascript" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806495595635802222/javascript.png"></code>
+  <code><img title="Python" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806495262800871424/py_logo.png"></code>
 </p>
 
 <br><br>
