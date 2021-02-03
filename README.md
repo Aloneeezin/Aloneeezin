@@ -30,17 +30,26 @@
 
   <p align="center">
   <td>
-  <center><img title="Ruby" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496659055968276/ruby.png"></center>
+  <center>
+  <td>
+<img title="Ruby" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496659055968276/ruby.png">
+  </td>
+</center>
   <p align="center">Ruby</p>
+ 
+
+  <center>
+   <td>
+<img title="Javascript" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806495796216070144/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f746875.png">
   </td>
-  <td>
-  <center><img title="Javascript" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806495796216070144/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f746875.png"></center>
-  </td>
-  <td>
+</center>
   <p align="center">JavaScript</p>
-  <center><img title="Python" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496026609451078/python.png"></center>
-  <p align="center">Python</p>
+  <center>
+<td>
+<img title="Python" height="25" src="https://cdn.discordapp.com/attachments/789537710322876511/806496026609451078/python.png">
   </td>
+</center>
+  <p align="center">Python</p>
 </p>
 
 <br><br>
